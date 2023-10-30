@@ -47,7 +47,7 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md
 Si tienes alguna pregunta o deseas discutir más sobre el proyecto, no dudes en contactarme. ¡Estoy siempre dispuesto a aprender y colaborar con otros!
 
 - **Correo Electrónico**: [astin464@gmail.com](mailto:astin464@gmail.com)
-- **LinkedIn**: [tu_perfil](https://www.linkedin.com/in/astinseverino/)
+- **LinkedIn**: [perfil](https://www.linkedin.com/in/astinseverino/)
 
 ---
 
